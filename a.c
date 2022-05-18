@@ -22,6 +22,6 @@ printf("数组第%d个元素为%d\n",i+1,array[i]);
 		max=arraynow;
 		else if(arraynow<0)
 		arraynow=0;
-	}.
+	}
 	printf("最大子数组为%d\n",max);
 }
